@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1084px" height="268px" viewBox="0 0 1084 268" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>discover</title>
+    <defs>
+        <radialGradient cx="50.0000013%" cy="50%" fx="50.0000013%" fy="50%" r="50%" gradientTransform="translate(0.500000,0.500000),scale(1.000000,0.999761),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#FF8330" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="discover" fill-rule="nonzero">
+            <text id="Disc" fill="#000000" font-family="Helvetica" font-size="13" font-weight="normal">
+                <tspan x="9.8425188" y="27.69292">Disc</tspan>
+            </text>
+            <g id="layer1" transform="translate(523.405523, 88.146493)" fill="url(#radialGradient-1)">
+                <path d="M147.959313,73.9973101 C147.965301,100.432006 133.866168,124.861235 110.974323,138.080312 C88.0824789,151.29939 59.8768342,151.29939 36.9849896,138.080312 C14.093145,124.861235 -0.00598750071,100.432006 6.7464012e-15,73.9973101 C-0.00598750071,47.5626143 14.093145,23.1333852 36.9849896,9.91430792 C59.8768342,-3.30476931 88.0824789,-3.30476931 110.974323,9.91430792 C133.866168,23.1333852 147.965301,47.5626143 147.959313,73.9973101 Z" id="path3194"></path>
+            </g>
+            <text id="Disc" fill="#000000" font-family="Verdana-Bold, Verdana" font-size="220" font-weight="bold">
+                <tspan x="0" y="221">Disc</tspan>
+            </text>
+            <text id="tspan2913" fill="#000000" font-family="Verdana-Bold, Verdana" font-size="220" font-weight="bold">
+                <tspan x="665.354239" y="221.10743">ver</tspan>
+            </text>
+            <text id="tspan2822" fill="#000000" font-family="Helvetica" font-size="40" font-weight="normal">
+                <tspan x="1053.14952" y="96.984271">®</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
